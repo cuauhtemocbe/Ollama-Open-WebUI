@@ -6,8 +6,7 @@ Te permite ejecutar modelos de lenguaje de forma local con una interfaz web tipo
 ## 🚀 Instalación rápida
 
 1. Guarda el archivo de instalación
-wget https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/ollama-webui-install.sh
-
+wget https://raw.githubusercontent.com/cuauhtemocbe/Ollama-Open-WebUI/refs/heads/main/ollama-webui-install.sh
 2. Dale permisos de ejecución
 
 `chmod +x ollama-webui-install.sh`
