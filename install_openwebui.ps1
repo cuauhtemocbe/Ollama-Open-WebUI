@@ -95,4 +95,4 @@ docker run -d `
 
 Ok "✅ Open WebUI está en marcha."
 Write-Host "🔗 Abre: http://localhost:3000" -ForegroundColor Cyan
-Write-Host "⚙️ Configura la conexión a tu proveedor (OpenAI, Azure OpenAI, etc.) desde Settings > Connections dentro de la WebUI." -ForegroundColor Yellow
+Write-Host "⚙️ Configura la conexión a tu proveedor (OpenAI, Azure OpenAI, etc.) desde Settings > Connections dentro de la WebUI."
